@@ -1,0 +1,16 @@
+id,name,latitude,longitude,landmark_type
+0,Main Entrance,5.6531,-0.1864,ENTRANCE
+1,Balme Library,5.6545,-0.1875,ACADEMIC
+2,Commonwealth Hall,5.6558,-0.1889,RESIDENTIAL
+3,Legon Hall,5.6572,-0.1901,RESIDENTIAL
+4,School of Medicine,5.6539,-0.1851,ACADEMIC
+5,Business School,5.6551,-0.1867,ACADEMIC
+6,Central Cafeteria,5.6544,-0.1881,DINING
+7,Sports Complex,5.6566,-0.1894,RECREATION
+8,Bank Area,5.6548,-0.1873,SERVICES
+9,Night Market,5.6541,-0.1885,DINING
+10,Engineering Block,5.6537,-0.1859,ACADEMIC
+11,Arts Block,5.6549,-0.1871,ACADEMIC
+12,Admin Block,5.6546,-0.1869,ADMINISTRATIVE
+13,JQB Library,5.6543,-0.1877,ACADEMIC
+14,Chemistry Block,5.6540,-0.1863,ACADEMIC

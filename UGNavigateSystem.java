@@ -62,8 +62,8 @@ public class UGNavigateSystem extends JFrame {
         campusGraph = new CampusGraph();
 
         // Try loading from CSV first, fallback to hardcoded data
-        try (InputStream nodeStream = getClass().getResourceAsStream("/nodes.csv");
-                InputStream edgeStream = getClass().getResourceAsStream("/edges.csv")) {
+        try (InputStream nodeStream = getClass().getResourceAsStream("./nodes.csv");
+                InputStream edgeStream = getClass().getResourceAsStream("./edges.csv")) {
 
             if (nodeStream != null && edgeStream != null) {
                 DataReader.loadNodes(nodeStream, campusGraph);
